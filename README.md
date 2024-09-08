@@ -171,8 +171,3 @@
 <a href="https://linkedin.com/in/kashifmakhdoom" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="kashifmakhdoom" height="30" width="40" /></a>
 <a href="mailto:kashifmakhdoom@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="kashifmakhdoom" height="30" width="40" /></a>
 </p>
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kashifmakhdoom&show_icons=true&locale=en&layout=compact" alt="kashifmakhdoom" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kashifmakhdoom&show_icons=true&locale=en" alt="kashifmakhdoom" /></p>
