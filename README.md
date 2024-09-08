@@ -14,11 +14,11 @@
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
   		<img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/> 
   	</a>
-   <a href="https://cdn.simpleicons.org/awslambda" target="_blank" rel="noreferrer"> 
-  		<img src="https://aws.amazon.com/lambda" alt="AWS" width="40" height="40"/> 
+   <a href="https://aws.amazon.com/lambda" target="_blank" rel="noreferrer"> 
+  		<img src="https://cdn.simpleicons.org/awslambda" alt="AWS Lambda" width="40" height="40"/> 
   	</a>
-  <a href="https://skillicons.dev/icons?i=azure" target="_blank" rel="noreferrer"> 
-  		<img src="https://azure.microsoft.com/en-us" alt="AWS" width="40" height="40"/> 
+  <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40"/> 
   	</a>
   <a href="https://wordpress.com" target="_blank" rel="noreferrer"> 
   		<img src="https://skillicons.dev/icons?i=wordpress" alt="Wordpress" width="40" height="40"/> 
@@ -46,6 +46,42 @@
   	</a>
 	<a href="https://jquery.com" target="_blank" rel="noreferrer"> 
   		<img src="https://skillicons.dev/icons?i=jquery" alt="jQuery" width="40" height="40"/> 
+  	</a>
+		<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" width="40" height="40"/> 
+  	</a>
+	<a href="https://tailwindcss.com" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" width="40" height="40"/> 
+  	</a>
+	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="40" height="40"/> 
+  	</a>
+	<a href="https://mui.com/material-ui/getting-started" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=materialui" alt="Material UI" width="40" height="40"/> 
+  	</a>
+	<a href="https://learn.microsoft.com/en-us/dotnet/csharp" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=cs" alt="C#" width="40" height="40"/> 
+  	</a>
+	<a href="https://dotnet.microsoft.com/en-us" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=dotnet" alt=".NET" width="40" height="40"/> 
+  	</a>
+	<a href="https://dotnet.microsoft.com/en-us/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer"> 
+  		<img src="https://cdn.simpleicons.org/blazor" alt="Blazor" width="40" height="40"/> 
+  	</a>
+	<a href="https://dapr.io" target="_blank" rel="noreferrer"> 
+  		<img src="https://cdn.simpleicons.org/dapr" alt="Dapr" width="40" height="40"/> 
+  	</a>
+	<a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40"/> 
+  	</a>
+	<a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=express" alt="Express.js" width="40" height="40"/> 
+  	</a>
+	<a href="https://nestjs.com" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=nestjs" alt="Nest.js" width="40" height="40"/> 
+  	</a>
+	<a href="https://strapi.io" target="_blank" rel="noreferrer"> 
+  		<img src="https://cdn.simpleicons.org/strapi" alt="Strapi" width="40" height="40"/> 
   	</a>
 </p>
 
