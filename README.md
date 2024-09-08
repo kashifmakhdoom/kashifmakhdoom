@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kashif Amin Makhdoom aka MAK in the Tech Community</h1>
 
 <img align="right" alt="Coding" width="250" src="https://github.com/kashifmakhdoom/kashifmakhdoom/blob/main/programmer.gif" />
-
+<h3 align="left">Introduction</h3>
 <p align="left">
-	Welcome to my profile! I am a seasoned Software Solution Architect, I specialize in
-            designing and implementing scalable, efficient, and innovative
-            digital software solutions that align with business goals. With a
-            deep understanding of cloud, frontend, and backend technologies, I
-            focus on crafting robust architectures that drive operational
-            excellence and support long-term growth. My expertise spans across
-            various industries, where I lead cross-funtional teams to develop
-            high-performance systems, optimize processes, and deliver seamless
-            user experiences...
+	Welcome to my profile! I am a seasoned Software Solution Architect, I specialize in designing and implementing scalable, 
+	efficient, and innovative digital software solutions that align with business goals. With a deep understanding of cloud, 
+	frontend, and backend technologies, I focus on crafting robust architectures that drive operational excellence and support 
+	long-term growth. My expertise spans across various industries, where I lead cross-funtional teams to develop
+        high-performance systems, optimize processes, and deliver seamless user experiences...
 </p>
 
 - 👨‍💻 All of my projects are available at [repositories](https://github.com/kashifmakhdoom?tab=repositories)
