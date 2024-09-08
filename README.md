@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kashif Amin Makhdoom aka MAK in the Tech Community</h1>
 <h3 align="center">I am a passionate Software Solution Architect and Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/3848914-Programmer-Thomas" />
+<img align="right" alt="Coding" width="400" src="https://github.com/kashifmakhdoom/kashifmakhdoom/blob/main/programmer.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashifmakhdoom&label=Profile%20views&color=0e75b6&style=flat" alt="kashifmakhdoom" /> </p>
 
