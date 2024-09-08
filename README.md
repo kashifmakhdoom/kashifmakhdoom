@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **.NET, C#, AspNetCore, Blazor, ReactJS/NextJS, Nodejs/NestJS, AWS/Azure, MSSql, MySql, PostgreSQL, MongoDb, CosmosDb, Docker/Kubernetes**
 
-- 📄 Visit my personal website [www.kashifmakhdoom.me](www.kashifmakhdoom.me)
+- 📄 Visit my personal website [www.kashifmakhdoom.me](https://kashifmakhdoom.me)
   
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">My Technial Toolchest</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
   		<img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/> 
@@ -82,6 +82,81 @@
   	</a>
 	<a href="https://strapi.io" target="_blank" rel="noreferrer"> 
   		<img src="https://cdn.simpleicons.org/strapi" alt="Strapi" width="40" height="40"/> 
+  	</a>
+	<a href="https://graphql.org" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=graphql" alt="GraphQL" width="40" height="40"/> 
+  	</a>
+	<a href="https://redis.io" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="40" height="40"/> 
+  	</a>
+	<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="40" height="40"/> 
+  	</a>
+	<a href="https://www.mysql.com" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="40" height="40"/> 
+  	</a>
+	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=postgres" alt="PostGres" width="40" height="40"/> 
+  	</a>
+	<a href="https://www.oracle.com" target="_blank" rel="noreferrer"> 
+  		<img src="https://cdn.simpleicons.org/oracle" alt="Oracle" width="40" height="40"/> 
+  	</a>
+		<a href="https://clerk.com" target="_blank" rel="noreferrer"> 
+  		<img src="https://cdn.simpleicons.org/clerk" alt="Clerk - Identity Management" width="40" height="40"/> 
+  	</a>
+	<a href="https://www.keycloak.org" target="_blank" rel="noreferrer"> 
+  		<img src="https://cdn.simpleicons.org/keycloak" alt="Keycloak - Identity Management" width="40" height="40"/> 
+  	</a>
+	<a href="https://app.diagrams.net" target="_blank" rel="noreferrer"> 
+  		<img src="https://cdn.simpleicons.org/diagrams.net" alt="Draw.io" width="40" height="40"/> 
+  	</a>
+	<a href="https://www.uml.org" target="_blank" rel="noreferrer"> 
+  		<img src="https://cdn.simpleicons.org/uml" alt="UML" width="40" height="40"/> 
+  	</a>
+	<a href="https://www.figma.com" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="40" height="40"/> 
+  	</a>
+	<a href="https://www.postman.com" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=postman" alt="Postman" width="40" height="40"/> 
+  	</a>
+	<a href="https://visualstudio.microsoft.com" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=visualstudio" alt="Visual Studio" width="40" height="40"/> 
+  	</a>
+	<a href="https://code.visualstudio.com" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=vscode" alt="Visual Studio Code" width="40" height="40"/> 
+  	</a>
+	<a href="https://git-scm.com" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=git" alt="Git" width="40" height="40"/> 
+  	</a>
+	<a href="https://github.com" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="40" height="40"/> 
+  	</a>
+	<a href="https://docs.github.com/en/actions" target="_blank" rel="noreferrer"> 
+  		<img src="https://cdn.simpleicons.org/githubactions" alt="GitHub Actions" width="40" height="40"/> 
+  	</a>
+		<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> 
+  		<img src="https://cdn.simpleicons.org/jira" alt="Jira" width="40" height="40"/> 
+  	</a>
+	<a href="https://kafka.apache.org" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=kafka" alt="Kafka" width="40" height="40"/> 
+  	</a>
+	<a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" width="40" height="40"/> 
+  	</a>
+	<a href="https://www.docker.com" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="40" height="40"/> 
+  	</a>
+	<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40"/> 
+  	</a>
+	<a href="https://nginx.org/en" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="40" height="40"/> 
+  	</a>
+	<a href="https://ubuntu.com" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=ubuntu" alt="Ubuntu" width="40" height="40"/> 
+  	</a>
+	<a href="https://www.microsoft.com/en-us/windows-server" target="_blank" rel="noreferrer"> 
+  		<img src="https://skillicons.dev/icons?i=windows" alt="Windows" width="40" height="40"/> 
   	</a>
 </p>
 
