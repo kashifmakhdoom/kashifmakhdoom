@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kashif Amin Makhdoom aka MAK in the Tech Community</h1>
+<h1 align="center">Hi 👋, I'm Kashif Amin Makhdoom aka M@K in the Tech Community</h1>
 
 <img align="right" alt="Coding" width="250" src="https://github.com/kashifmakhdoom/kashifmakhdoom/blob/main/programmer.gif" />
 <h3 align="left">Introduction</h3>
@@ -10,11 +10,11 @@
         high-performance systems, optimize processes, and deliver seamless user experiences...
 </p>
 
-- 👨‍💻 All of my projects are available at [repositories](https://github.com/kashifmakhdoom?tab=repositories)
+- 👨‍💻 All of my open-source projects are available at [repositories](https://github.com/kashifmakhdoom?tab=repositories)
 
 - 📄 Visit my personal website [www.kashifmakhdoom.me](https://kashifmakhdoom.me)
   
-<h3 align="left">My Technial Toolchest comprised of following;</h3>
+<h3 align="left">My Technial Toolchest comprises of the following;</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
   		<img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/> 
