@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kashif Amin Makhdoom aka MAK in the Tech Community</h1>
 <h3 align="center">I am a passionate Software Solution Architect and Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/kashifmakhdoom/kashifmakhdoom/blob/main/programmer.gif" />
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kashifmakhdoom&label=Profile%20views&color=0e75b6&style=flat" alt="kashifmakhdoom" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kashifmakhdoom" alt="kashifmakhdoom" /></a> </p>
+<img align="right" alt="Coding" width="300" src="https://github.com/kashifmakhdoom/kashifmakhdoom/blob/main/programmer.gif" />
 
 - 👨‍💻 All of my projects are available at [www.kashifmakhdoom.me/projects](www.kashifmakhdoom.me/projects)
 
