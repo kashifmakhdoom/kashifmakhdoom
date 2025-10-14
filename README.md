@@ -23,9 +23,6 @@ Always eager to connect, collaborate, and create technology that moves businesse
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
   		<img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/> 
   	</a>
-   <a href="https://aws.amazon.com/lambda" target="_blank" rel="noreferrer"> 
-  		<img src="https://cdn.simpleicons.org/awslambda" alt="AWS Lambda" width="40" height="40"/> 
-  	</a>
   <a href="https://azure.microsoft.com/en-us" target="_blank" rel="noreferrer"> 
   		<img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="40" height="40"/> 
   	</a>
