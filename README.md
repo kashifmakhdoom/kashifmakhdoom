@@ -16,7 +16,7 @@ Always eager to connect, collaborate, and create technology that moves businesse
 
 - 👨‍💻 All of my open-source projects are available at [repositories](https://github.com/kashifmakhdoom?tab=repositories)
 
-- 📄 Visit my personal website [www.kashifmakhdoom.me](https://kashifmakhdoom.com)
+- 📄 Visit my personal website [www.kashifmakhdoom.com](https://kashifmakhdoom.com)
   
 <h3 align="left">My Technial Toolchest comprises of the following;</h3>
 <p align="left">
