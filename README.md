@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Kashif Amin Makhdoom aka M@K in the Tech Community</h1>
+<h1 align="center">Hey👋, I'm Kashif Amin Makhdoom aka M@K in the Tech Community</h1>
 
 <img align="right" alt="Coding" width="250" src="https://github.com/kashifmakhdoom/kashifmakhdoom/blob/main/programmer.gif" />
 <h3 align="left">Introduction</h3>
 <p align="left">
-Welcome to my profile!
+Welcome — I’m glad you’re here!
 
 I’m a Software Solution Architect passionate about transforming business ideas into scalable, secure, and intelligent digital ecosystems. Over the years, 
 I’ve designed and implemented end-to-end enterprise solutions that not only solve technical challenges but also create measurable business impact.
@@ -16,9 +16,11 @@ Currently, I’m focused on building Enterprise Cloud-Native Microservices and S
 Always eager to connect, collaborate, and create technology that moves businesses forward. Cheers! 🚀 
 </p>
 
-- 👨‍💻 All of my open-source projects are available at [repositories](https://github.com/kashifmakhdoom?tab=repositories)
+<h3 align="left">Would you like to know more my expertise and projects</h3>
 
-- 📄 Visit my personal website [www.kashifmakhdoom.com](https://kashifmakhdoom.com)
+- 👨‍💻 All of my open-source projects are available at [repositories](https://github.com/kashifmakhdoom?tab=repositories)
+- 🌎 Visit my personal website [www.kashifmakhdoom.com](https://kashifmakhdoom.com)
+- 💡 View my youtube channel [youtube](https://youtube.com/kodematix)
   
 <h3 align="left">My technical toolchest is built around the following technologies:</h3>
 <p align="left">
@@ -175,7 +177,7 @@ Always eager to connect, collaborate, and create technology that moves businesse
 </p>
 
 
-<h3 align="left">Thanks for visiting, Let's connect!</h3>
+<h3 align="left">Thank you for visiting — let’s connect and explore opportunities to collaborate!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kashifmakhdoom" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="kashifmakhdoom" height="30" width="40" /></a>
 <a href="mailto:kashifmakhdoom@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="kashifmakhdoom" height="30" width="40" /></a>
