@@ -1,7 +1,7 @@
 <h1 align="center">Hey👋, I'm Kashif Amin Makhdoom aka M@K in the Tech Community</h1>
 
 <img align="right" alt="Coding" width="250" src="https://github.com/kashifmakhdoom/kashifmakhdoom/blob/main/programmer.gif" />
-<h3 align="left">Introduction</h3>
+<h3 align="left">Introduction:</h3>
 <p align="left">
 Welcome — I’m glad you’re here!
 
@@ -16,11 +16,11 @@ Currently, I’m focused on building Enterprise Cloud-Native Microservices and S
 Always eager to connect, collaborate, and create technology that moves businesses forward. Cheers! 🚀 
 </p>
 
-<h3 align="left">Would you like to know more my expertise and projects</h3>
+<h3 align="left">Would you like to know more about my expertise and projects:</h3>
 
 - 👨‍💻 All of my open-source projects are available at [repositories](https://github.com/kashifmakhdoom?tab=repositories)
-- 🌎 Visit my personal website [www.kashifmakhdoom.com](https://kashifmakhdoom.com)
-- 💡 View my youtube channel [youtube](https://youtube.com/kodematix)
+- 🌎 Visit my personal website [website](https://kashifmakhdoom.com)
+- 💡 View my youtube channel [channel](https://youtube.com/kodematix)
   
 <h3 align="left">My technical toolchest is built around the following technologies:</h3>
 <p align="left">
