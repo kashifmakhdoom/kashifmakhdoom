@@ -43,6 +43,9 @@ Always eager to connect, collaborate, and create technology that moves businesse
 	<a href="https://nextjs.org" target="_blank" rel="noreferrer"> 
   		<img src="https://skillicons.dev/icons?i=nextjs" alt="Next.js" width="40" height="40"/> 
   	</a>
+	<a href="https://webpack.js.org/" target="_blank" rel="noreferrer"> 
+  		<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Webpack-Dark.svg" alt="Webpack" width="40" height="40"/> 
+  	</a>
 	<a href="https://html.com/html5" target="_blank" rel="noreferrer"> 
   		<img src="https://cdn.simpleicons.org/html5" alt="Html5" width="40" height="40"/> 
   	</a>
@@ -106,8 +109,8 @@ Always eager to connect, collaborate, and create technology that moves businesse
 	<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
   		<img src="https://skillicons.dev/icons?i=postgres" alt="PostGres" width="40" height="40"/> 
   	</a>
-	<a href="https://www.oracle.com" target="_blank" rel="noreferrer"> 
-  		<img src="https://cdn.simpleicons.org/oracle" alt="Oracle" width="40" height="40"/> 
+	<a href="https://supabase.com" target="_blank" rel="noreferrer"> 
+  		<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Supabase-Dark.svg" alt="Supabase" width="40" height="40"/> 
   	</a>
 		<a href="https://clerk.com" target="_blank" rel="noreferrer"> 
   		<img src="https://cdn.simpleicons.org/clerk" alt="Clerk - Identity Management" width="40" height="40"/> 
