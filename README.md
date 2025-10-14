@@ -5,9 +5,11 @@
 <p align="left">
 Welcome to my profile!
 
-I’m a Software Solution Architect passionate about transforming business ideas into scalable, secure, and intelligent digital ecosystems. Over the years, I’ve designed and implemented end-to-end enterprise solutions that not only solve technical challenges but also create measurable business impact.
+I’m a Software Solution Architect passionate about transforming business ideas into scalable, secure, and intelligent digital ecosystems. Over the years, 
+I’ve designed and implemented end-to-end enterprise solutions that not only solve technical challenges but also create measurable business impact.
 
-My expertise spans AI driven, Cloud-Native, Serverless, DevOps, APIs, Frontend, Backend, and Mobile development — enabling me to build robust architectures that are both innovative and sustainable. I take pride in leading cross-functional teams to deliver high-performance systems, streamline operations, and craft seamless user experiences.
+My expertise spans AI driven, Cloud-Native, Serverless, DevOps, APIs, Frontend, Backend, and Mobile development — enabling me to build robust architectures 
+that are both innovative and sustainable. I take pride in leading cross-functional teams to deliver high-performance systems, streamline operations, and craft seamless user experiences.
 
 Currently, I’m focused on building Enterprise Cloud-Native Microservices and Serverless applications, leveraging modern stacks like ReactJS/NextJS, .NET/NodeJS, SQL/NoSQL databases, Azure/AWS, and Azure DevOps/GitHub — turning complex technical visions into real-world digital excellence.
 
@@ -45,7 +47,7 @@ Always eager to connect, collaborate, and create technology that moves businesse
   		<img src="https://cdn.simpleicons.org/html5" alt="Html5" width="40" height="40"/> 
   	</a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> 
-  		<img src="https://cdn.simpleicons.org/css3" alt="CSS3" width="40" height="40"/> 
+  		<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="CSS3" width="40" height="40"/> 
   	</a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
   		<img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="40" height="40"/> 
@@ -154,6 +156,9 @@ Always eager to connect, collaborate, and create technology that moves businesse
   	</a>
 	<a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
   		<img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" width="40" height="40"/> 
+  	</a>
+	<a href="https://developer.hashicorp.com/terraform" target="_blank" rel="noreferrer"> 
+  		<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Terraform-Dark.svg" alt="Terraform" width="40" height="40"/> 
   	</a>
 	<a href="https://nginx.org/en" target="_blank" rel="noreferrer"> 
   		<img src="https://skillicons.dev/icons?i=nginx" alt="Nginx" width="40" height="40"/> 
