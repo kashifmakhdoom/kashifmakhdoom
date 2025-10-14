@@ -18,9 +18,9 @@ Always eager to connect, collaborate, and create technology that moves businesse
 
 <h3 align="left">Would you like to know more about my expertise and projects:</h3>
 
-- 👨‍💻 All of my open-source projects are available at [repositories](https://github.com/kashifmakhdoom?tab=repositories)
-- 🌎 Visit my personal website [website](https://kashifmakhdoom.com)
-- 💡 View my youtube channel [channel](https://youtube.com/kodematix)
+- 👨‍💻 View all of my open-source [repositories](https://github.com/kashifmakhdoom?tab=repositories)
+- 🌎 Visit my personal [website](https://kashifmakhdoom.com)
+- 💡 View my youtube [channel](https://youtube.com/kodematix)
   
 <h3 align="left">My technical toolchest is built around the following technologies:</h3>
 <p align="left">
