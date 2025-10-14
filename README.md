@@ -20,7 +20,7 @@ Always eager to connect, collaborate, and create technology that moves businesse
 
 - 📄 Visit my personal website [www.kashifmakhdoom.com](https://kashifmakhdoom.com)
   
-<h3 align="left">My Technial Toolchest comprises of the following;</h3>
+<h3 align="left">My technical toolchest is built around the following technologies:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
   		<img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/> 
