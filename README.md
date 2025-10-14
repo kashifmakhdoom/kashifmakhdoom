@@ -3,16 +3,20 @@
 <img align="right" alt="Coding" width="250" src="https://github.com/kashifmakhdoom/kashifmakhdoom/blob/main/programmer.gif" />
 <h3 align="left">Introduction</h3>
 <p align="left">
-	Welcome to my profile! I am a seasoned Software Solution Architect, I specialize in designing and implementing scalable, 
-	efficient, and innovative digital software solutions that align with business goals. With a deep understanding of cloud, 
-	frontend, and backend technologies, I focus on crafting robust architectures that drive operational excellence and support 
-	long-term growth. My expertise spans across various industries, where I lead cross-funtional teams to develop
-        high-performance systems, optimize processes, and deliver seamless user experiences...
+Welcome to my profile!
+
+I’m a Software Solution Architect passionate about transforming business ideas into scalable, secure, and intelligent digital ecosystems. Over the years, I’ve designed and implemented end-to-end enterprise solutions that not only solve technical challenges but also create measurable business impact.
+
+My expertise spans AI driven, Cloud-Native, Serverless, DevOps, APIs, Frontend, Backend, and Mobile development — enabling me to build robust architectures that are both innovative and sustainable. I take pride in leading cross-functional teams to deliver high-performance systems, streamline operations, and craft seamless user experiences.
+
+Currently, I’m focused on building Enterprise Cloud-Native Microservices and Serverless applications, leveraging modern stacks like ReactJS/NextJS, .NET/NodeJS, SQL/NoSQL databases, Azure/AWS, and Azure DevOps/GitHub — turning complex technical visions into real-world digital excellence.
+
+Always eager to connect, collaborate, and create technology that moves businesses forward. Cheers! 🚀 
 </p>
 
 - 👨‍💻 All of my open-source projects are available at [repositories](https://github.com/kashifmakhdoom?tab=repositories)
 
-- 📄 Visit my personal website [www.kashifmakhdoom.me](https://kashifmakhdoom.me)
+- 📄 Visit my personal website [www.kashifmakhdoom.me](https://kashifmakhdoom.com)
   
 <h3 align="left">My Technial Toolchest comprises of the following;</h3>
 <p align="left">
