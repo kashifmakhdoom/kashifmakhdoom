@@ -1,9 +1,8 @@
 <h1 align="center">Hey👋, I'm Kashif Amin Makhdoom aka M@K in the Tech Community</h1>
 
 <img align="right" alt="Coding" width="250" src="https://github.com/kashifmakhdoom/kashifmakhdoom/blob/main/programmer.gif" />
-<h3 align="left">Introduction:</h3>
+<h3 align="left">👋 About Me:</h3>
 <p align="left">
-👋 About Me
 
 I’m a Software Solution Architect driven by a passion for transforming innovative business ideas into scalable, secure, and intelligent digital ecosystems. With years of hands-on experience, I’ve designed and delivered end-to-end enterprise solutions that bridge the gap between technology and tangible business value.
 
@@ -18,7 +17,7 @@ Always open to collaboration, innovation, and meaningful conversations about tec
 Let’s connect and create something extraordinary. 🚀 🚀 
 </p>
 
-<h3 align="left">Would you like to know more about my expertise and projects:</h3>
+<h3 align="left">💡 Would you like to know more about my expertise and projects:</h3>
 
 - 👨‍💻 View all of my open-source [repositories](https://github.com/kashifmakhdoom?tab=repositories)
 - 🌎 Visit my personal [website](https://kashifmakhdoom.com)
@@ -179,7 +178,7 @@ Let’s connect and create something extraordinary. 🚀 🚀
 </p>
 
 
-<h3 align="left">Thank you for visiting — let’s connect and explore opportunities to collaborate!</h3>
+<h3 align="left">👋 Thank you for visiting — let’s connect and explore opportunities to collaborate!</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kashifmakhdoom" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="kashifmakhdoom" height="30" width="40" /></a>
 <a href="mailto:kashifmakhdoom@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="kashifmakhdoom" height="30" width="40" /></a>
