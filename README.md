@@ -23,7 +23,7 @@ Let’s connect and create something extraordinary. 🚀 🚀
 - 🌎 Visit my personal [website](https://kashifmakhdoom.com)
 - 💡 View my youtube [channel](https://youtube.com/kodematix)
   
-<h3 align="left">My technical toolchest is built around the following technologies:</h3>
+<h3 align="left">💡 My technical toolchest is built around the following technologies:</h3>
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
   		<img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="40" height="40"/> 
